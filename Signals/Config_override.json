@@ -1,0 +1,14 @@
+{
+  "surprise": {
+    "curious": 0.2,
+    "tense": 0.4,
+    "destabilized": 0.6
+  },
+  "drag_cost": {
+    "light": 5,
+    "moderate": 25
+  },
+  "grounding": {
+    "min_delta": 0.02
+  }
+}
